@@ -1,9 +1,7 @@
+Coming soon to the App Store...
+
 ### [Post Somnum](https://postsomnum.com/)
-A dream journal for recording and reflecting on your dreams, with iCloud sync, statistics, version history and optional AI analysis.
+Record and reflect on the deeper meanings of your dreams. App supports iCloud sync across devices, statistics on logged dreams, optional chat with AI, version history, import and export of dream logs, notifications, Screen Time locking, and more.
 
 ### [In Check](https://incheck.life/)
-Keeps your iPhone minimal by blocking distracting apps until you solve a chess puzzle, study Anki flashcards, do some math or practice a language.
-
-Both apps are built in Swift and coming soon to the App Store.
-
-[LinkedIn](https://www.linkedin.com/in/zachary-kashef-4074691a3/)
+Adapt iPhone to minimalism; restrict Screen Time by unblocking apps only after the completion of: solving chess puzzles, solving math problems, practicing a foreign language (9 available), studying geography, custom Anki goals (activity synced through an open-source Anki add-on I built), exercising, and more.
